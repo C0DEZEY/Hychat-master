@@ -1,5 +1,5 @@
 {
-  "name": "hpserver",
+  "name": "hellonode",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,10 +12,7 @@
   "homepage": "https://github.com/fly-examples/hellonode#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "fetch": "^1.1.0",
-    "file-encrypt": "^0.0.1",
     "firebase": "^9.12.1",
-    "simple-get-json": "^8.2.0",
     "wss": "^3.3.4"
   }
 }
