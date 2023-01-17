@@ -1,0 +1,19 @@
+{
+  "name": "file-encrypt",
+  "version": "0.0.1",
+  "description": "Simple module to encrypt and decrypt files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author":  "Sharathreddy <csharath@outlook.com>",
+  "keywords": [
+    "encrypt",
+    "file-encrypt"
+  ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/csharathreddy/file-encrypt.git"
+  },
+  "license": "ISC"
+}
